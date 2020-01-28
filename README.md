@@ -1,1 +1,0 @@
-# kinseyda.github.io

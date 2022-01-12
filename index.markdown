@@ -12,3 +12,12 @@ layout: default
     - The rushed archer's score keeping app.
 
 ## Contact/Resume
+ - [Primary Email](mailto:daniel.kinsey.dk@gmail.com) - daniel.kinsey.dk@gmail.com
+ - [School Email](mailto:dkins090@uottawa.ca)  - dkins090@uottawa.ca
+ - Phone         - 289 707 7122
+ - [GitHub](https://github.com/kinseyda)        - github.com/kinseyda
+<ul>
+    <li>
+      <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
+    </li>
+</ul>

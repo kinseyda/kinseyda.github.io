@@ -1,8 +1,0 @@
----
-layout: default
-title:  "Resume"
-date:   2022-01-11 20:36:00 -0500
-categories: jekyll update
----
-[Download](https://kinseyda.github.io/resources/Daniel Kinsey Resume 2021-January.pdf)
-<embed src="https://kinseyda.github.io/resources/Daniel Kinsey Resume 2021-January.pdf" type="application/pdf" height="1000" width="1000"/>

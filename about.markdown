@@ -3,16 +3,9 @@ layout: default
 title: About
 permalink: /about/
 ---
+# [Home](index.markdown) | About | [Projects](projects.markdown) | [Resume](resume.markdown)
+My name is Daniel Kinsey (sometimes Fillip online). 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Currently, I'm a third year student at the University of Ottawa, pursuing a degree in computer science.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I mostly spend my free time with my programming projects, my guitar, or learning Esperanto.

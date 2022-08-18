@@ -3,21 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Home
 ---
-# Home
-## Projects
- - Moles - [Github](https://github.com/kinseyda/moles)/[Play](https://kinseyda.github.io/moles/)
-    - A game of mole miners.
- - ArchMark - [Github](https://github.com/kinseyda/ArchMark)
-    - The rushed archer's score keeping app.
+# Home | [About](about.markdown) | [Projects](projects.markdown) | [Resume](resume.markdown)
 
-## Contact/Resume
- - [Primary Email](mailto:daniel.kinsey.dk@gmail.com) - daniel.kinsey.dk@gmail.com
- - [School Email](mailto:dkins090@uottawa.ca)  - dkins090@uottawa.ca
- - Phone         - 289 707 7122
- - [GitHub](https://github.com/kinseyda)        - github.com/kinseyda
-<ul>
-    <li>
-      <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-    </li>
-</ul>
+Hello! I'm Daniel Kinsey. This site serves to collect all information about me into one place.
+
+## Contact
+ - Primary Email - [daniel.kinsey.dk@gmail.com](mailto:daniel.kinsey.dk@gmail.com)
+ - School Email - [dkins090@uottawa.ca](mailto:dkins090@uottawa.ca)
+ - Phone - 289 707 7122
+ - GitHub - [@kinseyda](https://github.com/kinseyda)

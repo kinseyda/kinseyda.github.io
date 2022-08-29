@@ -1,0 +1,85 @@
+div {
+  /* border: 1px solid black; */
+}
+ul {
+  padding-left: 20px;
+}
+h1,
+h2,
+h3,
+h4 {
+  display: inline;
+}
+.rule {
+  border-left: 1px dashed;
+  border-top: 1px dashed;
+}
+.vertical {
+  height: 95%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  margin-left: 0.5ch;
+  margin-right: 0.5ch;
+}
+.horizontal {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+body {
+  color: black;
+  background-color: white;
+  font-family: Helvetica;
+  font-size: 11pt;
+}
+#outer-container {
+  position: absolute;
+  line-break: strict;
+  top: 0.75in;
+  left: 0.75in;
+  right: 0.75in;
+  bottom: 0.75in;
+  display: flex;
+  flex-direction: row;
+}
+#left-half {
+  flex: 0 0 30%;
+  display: flex;
+  flex-direction: column;
+}
+#name-desc {
+  flex: 0 0 0;
+}
+#contact {
+  flex: 1 0 0;
+  display: flex;
+  flex-direction: column;
+}
+#contacts {
+  flex: 1 0 0;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+#contacts > div {
+  flex: 1 0 0;
+}
+#skills {
+  flex: 1 0 0;
+}
+#right-half {
+  flex: 1 0 0;
+  display: flex;
+  flex-direction: column;
+}
+#education {
+  flex: 1 0 0;
+}
+#experience {
+  flex: 1 0 0;
+}
+#projects {
+  flex: 1 0 0;
+}

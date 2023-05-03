@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-# [Home](index.markdown) | [About](about.markdown) | Projects | [Resume](resume.markdown)
+# [Home](index.markdown) | [About](about.markdown) | Projects | [Resume](my-resume.markdown)
 
  - Moles ![Mole icon](/resources/project-images/mole-icon-small.png) [Github](https://github.com/kinseyda/moles)/[Play](https://kinseyda.github.io/moles/)
     - A game of mole miners.

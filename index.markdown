@@ -5,7 +5,7 @@
 layout: default
 title: Home
 ---
-# Home | [About](about.markdown) | [Projects](projects.markdown) | [Resume](resume.markdown)
+# Home | [About](about.markdown) | [Projects](projects.markdown) | [Resume](my-resume.markdown)
 
 Hello! I'm Daniel Kinsey. This site serves to collect all information about me into one place.
 
